@@ -13,9 +13,11 @@ In our example select wifi interface and capture data packets
 <img src="https://user-images.githubusercontent.com/125909533/236497602-e0831314-fcb6-4fb9-a455-52720546832b.png">
 
 # 3.Use TCP command to list all packets follow TCP  
+command : tcp
 <img src="https://user-images.githubusercontent.com/125909533/236499922-f15c6ae6-b1ea-4ed3-9c43-4c5f447cebb7.png">
 
 # 4.Use UDP command to list all packets follow UDP  
+command : udp
 <img src="https://user-images.githubusercontent.com/125909533/236500497-d5e5bf98-9125-4d9e-9a06-47d05a9645ff.png">
 
 # 5.Analysis specific IP
